@@ -1,20 +1,20 @@
 criaCartao(
-    'programação',
-    'O que é HTML?',
-    'HTML é uma linguagem de marcação utilizada na construção de páginas na Web'
+    'automóvel',
+    'moto ou carro?',
+    'moto claro'
 )
 criaCartao(
-    'Computador',
-    'O que é um vírus?',
-    'Em informática, um vírus de computador é um software malicioso que é desenvolvido por programadores geralmente inescrupulosos'
+    'obsessão',
+    'gearhead ou 244?',
+    '244 CLAROO'
 )
 criaCartao(
-    'Computador',
-    'O que é um vírus?',
-    'Em informática, um vírus de computador é um software malicioso que é desenvolvido por programadores geralmente inescrupulosos'
+    'braileirao',
+    'corinthians vai cair?',
+    'não obrigado'
 )
 criaCartao(
-    'Computador',
-    'O que é um vírus?',
-    'Em informática, um vírus de computador é um software malicioso que é desenvolvido por programadores geralmente inescrupulosos'
+    'cabelo',
+    'America ou low fade?',
+    'America claro'
 )
